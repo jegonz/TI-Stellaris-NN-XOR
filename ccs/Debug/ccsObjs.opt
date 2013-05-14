@@ -1,0 +1,1 @@
+"./Drivers/rit128x96x4.obj" "./supervisedNN.obj" "./startup_ccs.obj" "./NN_XOR.obj" -l"rtsv7M3_T_le_eabi.lib" -l"C:\StellarisWare\driverlib\ccs\Debug\driverlib.lib" "../lm3s1968.cmd" 

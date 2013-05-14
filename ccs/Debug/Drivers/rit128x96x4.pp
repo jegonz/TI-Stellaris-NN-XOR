@@ -1,0 +1,11 @@
+# FIXED
+Drivers/rit128x96x4.obj: ../Drivers/rit128x96x4.c
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../inc/hw_ssi.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../inc/hw_memmap.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../inc/hw_sysctl.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../inc/hw_types.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../driverlib/debug.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../driverlib/gpio.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../driverlib/ssi.h
+Drivers/rit128x96x4.obj: C:/StellarisWare/boards/MyBoards/LM3S1968/NNXOR/ccs/../../../../../driverlib/sysctl.h
+Drivers/rit128x96x4.obj: ../Drivers/rit128x96x4.h
